@@ -1,6 +1,6 @@
 # parley-brand
 
-<img src="https://raw.githubusercontent.com/tony-bringardner/parley-brand/master/src/main/resources/us/bringardner/parley/brand/parley-hero.png" alt="Margot the magpie perched on the Parley tower" width="240" align="right">
+<img src="https://raw.githubusercontent.com/parley-project/parley-brand/master/src/main/resources/us/bringardner/parley/brand/parley-hero.png" alt="Margot the magpie perched on the Parley tower" width="240" align="right">
 
 The Parley logo, app icons and mascot, kept in one place. Any Parley project that shows
 them depends on this artifact instead of carrying its own copies, so a change here
@@ -45,7 +45,7 @@ Each call returns a new image, so you can draw on or scale it freely.
 GitHub can't read images out of a jar, so link to the file in this repository:
 
 ```markdown
-![Parlez-vous DNS ?](https://raw.githubusercontent.com/tony-bringardner/parley-brand/master/src/main/resources/us/bringardner/parley/brand/margot-dns.png)
+![Parlez-vous DNS ?](https://raw.githubusercontent.com/parley-project/parley-brand/master/src/main/resources/us/bringardner/parley/brand/margot-dns.png)
 ```
 
 ## What's included
