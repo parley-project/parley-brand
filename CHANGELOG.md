@@ -1,6 +1,6 @@
 # Changelog
 
-## parley-brand 1.0.0 (unreleased)
+## parley-brand 1.0.0 (2026-10-16)
 
 First version.
 
